@@ -1,0 +1,25 @@
+[
+  {
+    "_id":"59954a114b54621976ee8618",
+    "productName":"OPPO R11 全网通4G+64G 双卡双待手机 玫瑰金色",
+    "salePrice":2999,
+    "total":10,
+    "busRebate":"1",
+    "productImage":"static/uploads/2017/08/17/files_1502956047590.jpg",
+    "checked":0,
+    "productNum":0,
+    "userName":"admin",
+    "productId":"201708171547291",
+    "shopRebate":"1",
+    "createDate":"2017-08-17 15:47:29",
+    "__v":0
+  },
+  {
+    "_id":"59954b034b54621976ee8619",
+    "productName":"华为 畅享6S 金色 养生堂定制版 移动联通电信4G手机 双卡双待",
+    "salePrice":1099,
+    "total":10,
+    "busRebate":"1",
+    "productImage":"static/uploads/2017/08/17/files_1502956288911.jpg","checked":0,"productNum":0,"userName":"admin","productId":"201708171551315","shopRebate":"1","createDate":"2017-08-17 15:51:31","__v":0},{"_id":"59954b8d4b54621976ee861a","productName":"华为 HUAWEI nova 2 Plus ","salePrice":2899,"total":10,"busRebate":"1","productImage":"static/uploads/2017/08/17/files_1502956427454.jpg","checked":0,"productNum":0,"userName":"admin","productId":"201708171553491","shopRebate":"1","createDate":"2017-08-17 15:53:49","__v":0},{"_id":"59954bce4b54621976ee861b","productName":"【标配版】Meitu/美图 ","salePrice":2399,"total":10,"busRebate":"1","productImage":"static/uploads/2017/08/17/files_1502956492472.jpg","checked":0,"productNum":0,"userName":"admin","productId":"201708171554540","shopRebate":"1","createDate":"2017-08-17 15:54:54","__v":0},{"_id":"59954bfc4b54621976ee861c","productName":"AGM X2 4G全网通 三防手机 双卡双","salePrice":3699,"total":10,"busRebate":"1","productImage":"static/uploads/2017/08/17/files_1502956539135.png","checked":0,"productNum":0,"userName":"admin","productId":"201708171555401","shopRebate":"1","createDate":"2017-08-17 15:55:40","__v":0},{"_id":"59954c484b54621976ee861d","productName":"小米Note2 全网通 标准版 4GB内存 ","salePrice":2799,"total":10,"busRebate":"1","productImage":"static/uploads/2017/08/17/files_1502956613886.jpg","checked":0,"productNum":0,"userName":"admin","productId":"201708171556564","shopRebate":"1","createDate":"2017-08-17 15:56:56","__v":0},{"_id":"59954d0d4b54621976ee861e","productName":"三星（SAMSUNG）Galaxy S8（SM-G9508）4GB+64GB版","salePrice":5688,"total":10,"busRebate":"1",
+  "productImage":"static/uploads/2017/08/17/files_1502956810792.jpg","checked":0,"productNum":0,"userName":"admin","productId":"201708171600133","shopRebate":"1","createDate":"2017-08-17 16:00:13","__v":0},{"_id":"59954dd94b54621976ee861f","productName":"锤子 坚果Pro 128GB 细红线特别版 ","salePrice":2299,"total":10,"busRebate":"1","productImage":"static/uploads/2017/08/17/files_1502957016250.jpg","checked":0,"productNum":0,"userName":"admin","productId":"201708171603371","shopRebate":"1","createDate":"2017-08-17 16:03:37","__v":0}
+]
